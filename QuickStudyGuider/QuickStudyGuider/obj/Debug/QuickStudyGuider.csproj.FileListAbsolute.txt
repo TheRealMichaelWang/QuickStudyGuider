@@ -1,0 +1,16 @@
+C:\Users\MichaelWang\Documents\Visual Studio 2019\Projects\QuickStudyGuider\QuickStudyGuider\bin\Debug\QuickStudyGuider.exe.config
+C:\Users\MichaelWang\Documents\Visual Studio 2019\Projects\QuickStudyGuider\QuickStudyGuider\bin\Debug\QuickStudyGuider.exe
+C:\Users\MichaelWang\Documents\Visual Studio 2019\Projects\QuickStudyGuider\QuickStudyGuider\bin\Debug\QuickStudyGuider.pdb
+C:\Users\MichaelWang\Documents\Visual Studio 2019\Projects\QuickStudyGuider\QuickStudyGuider\obj\Debug\QuickStudyGuider.csprojAssemblyReference.cache
+C:\Users\MichaelWang\Documents\Visual Studio 2019\Projects\QuickStudyGuider\QuickStudyGuider\obj\Debug\QuickStudyGuider.Main.resources
+C:\Users\MichaelWang\Documents\Visual Studio 2019\Projects\QuickStudyGuider\QuickStudyGuider\obj\Debug\QuickStudyGuider.Properties.Resources.resources
+C:\Users\MichaelWang\Documents\Visual Studio 2019\Projects\QuickStudyGuider\QuickStudyGuider\obj\Debug\QuickStudyGuider.csproj.GenerateResource.cache
+C:\Users\MichaelWang\Documents\Visual Studio 2019\Projects\QuickStudyGuider\QuickStudyGuider\obj\Debug\QuickStudyGuider.csproj.CoreCompileInputs.cache
+C:\Users\MichaelWang\Documents\Visual Studio 2019\Projects\QuickStudyGuider\QuickStudyGuider\obj\Debug\QuickStudyGuider.exe
+C:\Users\MichaelWang\Documents\Visual Studio 2019\Projects\QuickStudyGuider\QuickStudyGuider\obj\Debug\QuickStudyGuider.pdb
+C:\Users\MichaelWang\Documents\Visual Studio 2019\Projects\QuickStudyGuider\QuickStudyGuider\bin\Debug\wordlywise8.key
+C:\Users\MichaelWang\Documents\Visual Studio 2019\Projects\QuickStudyGuider\QuickStudyGuider\bin\Debug\amgen.key
+C:\Users\MichaelWang\Documents\Visual Studio 2019\Projects\QuickStudyGuider\QuickStudyGuider\bin\Debug\LotF.key
+C:\Users\MichaelWang\Documents\Visual Studio 2019\Projects\QuickStudyGuider\QuickStudyGuider\bin\Debug\bio7.key
+C:\Users\MichaelWang\Documents\Visual Studio 2019\Projects\QuickStudyGuider\QuickStudyGuider\bin\Debug\AccrossTheCenturies.key
+C:\Users\MichaelWang\Documents\Visual Studio 2019\Projects\QuickStudyGuider\QuickStudyGuider\obj\Debug\QuickStudyGuider.AboutBox.resources
